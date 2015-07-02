@@ -1,0 +1,9 @@
+{
+  "name": "auth",
+  "keywords": [
+    "ember-addon"
+  ],
+  "dependencies": {
+    "ember-cli-htmlbars": "0.7.6"
+  }
+}
