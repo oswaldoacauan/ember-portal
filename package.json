@@ -37,7 +37,8 @@
   "ember-addon": {
     "paths": [
       "lib/navigation",
-      "lib/auth"
+      "lib/auth",
+      "lib/core"
     ]
   }
 }
